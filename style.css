@@ -1,0 +1,82 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    font-family: sans-serif;
+    background-color: rgb(212, 87, 4);
+}
+
+header{
+    padding: 4rem;
+    padding-bottom: 0;
+}
+
+.titulo{
+    text-align: center;
+    margin: auto;
+    max-width: 40rem;
+    border-bottom: 3px solid white;
+}
+
+header h1{
+    font-size: 2.5rem;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.caja-principal{
+    padding:1rem;
+    background-color: white;
+    margin-left: 1rem;
+    margin: 1rem;
+}
+
+.caja1{
+    border: 1px solid rgb(179, 177, 177);
+    background-color: rgb(225, 226, 226);
+    margin-bottom: 1rem;
+}
+
+.caja2{
+    border: 1px solid black;
+    border: 1px solid rgb(179, 177, 177);
+    background-color: rgb(225, 226, 226);
+
+}
+
+h2{
+    color: rgb(212, 87, 4);
+    font-weight: bold;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    font-size: 1.8rem;
+}
+
+div p{
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 111, 238);
+    margin-left: 1rem;
+}
+
+img{
+    width: 30rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+footer{
+    color: white;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 1rem;
+}
